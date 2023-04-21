@@ -1,4 +1,31 @@
 
+% --------------------------------------------------------------------------------------------------
+%
+%    Demo software for Simultaneous Extraction of Driver Breathing and Heartbeat
+%    Radar Signals Using Discrete Cosine Transform-Based Sparse Optimization
+%
+%                   Release ver. 1.0  (April. 21, 2023)
+%
+% --------------------------------------------------------------------------------------------
+%
+% authors:              Zhi-huo Xu.
+%
+% web page:           https://github.com/Z-H-XU/DCT-Vital-Signs
+%
+% contact:               xuzhihuo@gmail.com
+%
+% --------------------------------------------------------------------------------------------
+% Copyright (c) 2023 NTU.
+% Nantong University, China.
+% All rights reserved.
+% This work should be used for nonprofit purposes only.
+% --------------------------------------------------------------------------------------------
+% If you use the code, please kindly cite the following paper:  
+%S.K. Xue, Zhihuo Xu, Y.X. Wang  et al. : Discrete Cosine Transform-Based Sparse Optimization
+% for Simultaneous Extraction of Driver Breathing and Heartbeat Radar Signals. 
+% IEEE Transactions on Intelligent Transportation Systems, Under Review.
+% Thank you
+
 clc;clear;
 close all;
 
