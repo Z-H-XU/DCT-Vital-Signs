@@ -8,7 +8,7 @@
 %
 % --------------------------------------------------------------------------------------------
 %
-% authors:              Zhi-huo Xu.
+% authors:           S.K. Xue, Zhihuo Xu, Y.X. Wang  et al.
 %
 % web page:           https://github.com/Z-H-XU/DCT-Vital-Signs
 %
@@ -21,10 +21,10 @@
 % This work should be used for nonprofit purposes only.
 % --------------------------------------------------------------------------------------------
 % If you use the code, please kindly cite the following paper:  
-%S.K. Xue, Zhihuo Xu, Y.X. Wang  et al. : Discrete Cosine Transform-Based Sparse Optimization
+% S.K. Xue, Zhihuo Xu, Y.X. Wang  et al. : Discrete Cosine Transform-Based Sparse Optimization
 % for Simultaneous Extraction of Driver Breathing and Heartbeat Radar Signals. 
 % IEEE Transactions on Intelligent Transportation Systems, Under Review.
-% Thank you
+% Thank you!
 
 clc;clear;
 close all;
