@@ -1,10 +1,11 @@
 
 % --------------------------------------------------------------------------------------------------
 %
-%    Demo software for Simultaneous Extraction of Driver Breathing and Heartbeat
-%    Radar Signals Using Discrete Cosine Transform-Based Sparse Optimization
+%    Demo software for Simultaneous Extraction of Respiratory and Cardiac Signals
+%             in Apnea Events using FMCW mm-Wave Radar
+%       A Discrete Cosine Transform-Based Sparse Optimization Approach
 %
-%                   Release ver. 1.1  (Jan. 14, 2024)
+%                   Release ver. 1.1  (Jan. 15, 2024)
 %
 % --------------------------------------------------------------------------------------------
 %
